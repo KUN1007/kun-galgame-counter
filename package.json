@@ -14,5 +14,8 @@
     "vue": "^3.5.25",
     "vue-router": "^4.6.3"
   },
-  "packageManager": "pnpm@8.11.0+sha1.01bf39424f1008f29012bbae851d2acb8a20a0d0"
+  "packageManager": "pnpm@8.11.0+sha1.01bf39424f1008f29012bbae851d2acb8a20a0d0",
+  "devDependencies": {
+    "@types/node": "^24.10.1"
+  }
 }
