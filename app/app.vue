@@ -8,7 +8,7 @@
       </p>
       <h1>莲是可爱的孩子吗？</h1>
       <a
-        href="https://www.kungal.com/galgame/1/"
+        href="https://s.iloveren.link/s/moyumoe2"
         target="_blank"
         class="subtitle"
       >
